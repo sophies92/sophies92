@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on: nothing right now
 - 📫 How to reach me: dm me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I make a good Strawbeery Daiquiri
+- ⚡ Fun fact: I make a good Strawberry Daiquiri
 
 <!---
 sophies92/sophies92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
