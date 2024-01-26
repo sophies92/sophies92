@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @sophies92
-- 🌱 I’m currently learning: ComSci at Aber Uni
-- 💞️ I’m looking to collaborate on: nothing right now
-- 📫 How to reach me: dm me
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I make a good Strawberry Daiquiri
+✨Sophie
+✨CompSci Student
 
 <!---
 sophies92/sophies92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
