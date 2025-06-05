@@ -1,6 +1,6 @@
-✨     Sophie    ✨
-✨CompSci Student✨
-✨Live by the Sea✨
+✨     Sophie    ✨    
+✨CompSci Student✨    
+✨Live by the Sea✨    
 
 <!---
 sophies92/sophies92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
